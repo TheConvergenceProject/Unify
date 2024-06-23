@@ -3,7 +3,7 @@
 Unify is a [black MIDI](https://en.wikipedia.org/wiki/Black_MIDI) medley which
 was created as a 3-year-long collaboration between 15 talented composers,
 musicians and artists, as well as (at the time) over 400 supporters in the
-community Discord server.
+[community Discord server](https://discord.gg/zWPAkgjpCW).
 
 ## Downloads
 
