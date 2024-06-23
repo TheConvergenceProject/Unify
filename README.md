@@ -5,6 +5,13 @@ was created as a 3-year-long collaboration between 15 talented composers,
 musicians and artists, as well as (at the time) over 400 supporters in the
 community Discord server.
 
+## Downloads
+
+You can download all of the releases of this project from the
+[releases page](https://github.com/TheConvergenceProject/Unify/releases).
+
+## Statistics
+
 The final update, released on February 19th 2021, has the following statistics:
 
 | Statistic             | Value                   |
@@ -64,8 +71,3 @@ dedication and attention-to-detail.
 
 I couldn't find links for all creators. Please create a pull request if you
 know of any links that I've missed.
-
-## Downloads
-
-You can download all of the releases of this project from the
-[releases page](https://github.com/TheConvergenceProject/Unify/releases).
